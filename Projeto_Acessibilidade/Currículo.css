@@ -1,0 +1,76 @@
+.img-rounded
+{
+	width: 150px;
+	height: 150px;
+	margin:20px;
+	margin-left:35px;
+}
+
+.linha-vertical {
+	height: 150px;/*Altura da linha*/
+  border-left: 1px solid;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
+}
+.img-rounded:hover
+{
+	transform: scale(1.2);
+}
+.img-rounded1
+{
+	margin-left:30px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	width: 150px;
+	height: 150px;
+	float:left;
+	padding-left:10px;
+}
+.linha-horizontal
+{
+	width: 150px;/*Altura da linha*/
+	border-left: 1px solid;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
+	float:left;
+}
+figcaption
+{
+	font-size:15px;
+	text-align: center;
+}
+body{
+	background-color:blue;
+}
+b{
+	text-align:center;
+}
+
+.link
+{
+	color: black;
+	float:left;
+	text-align:center;
+}
+.link:hover
+{
+	color:blue;
+}
+#logo
+{
+	 color:white;
+	-webkit-touch-callout: none;  /* iPhone OS, Safari */
+    -webkit-user-select: none;    /* Chrome, Safari 3 */
+    -moz-user-select: none;       /* Firefox */
+
+}
+h1{
+	float:top;
+}
+#idiomas
+{
+	color:black;
+	text-align:center;
+	margin-left:75px;
+}
+#idiomas:hover
+{
+	color:blue;
+}
+	
